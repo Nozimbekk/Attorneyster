@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Bold.woff2') format('woff2'),
+        url('Outfit-Bold.woff') format('woff'),
+        url('Outfit-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond';
+    src: url('CormorantGaramond-Regular.woff2') format('woff2'),
+        url('CormorantGaramond-Regular.woff') format('woff'),
+        url('CormorantGaramond-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('Outfit-Regular.woff2') format('woff2'),
+        url('Outfit-Regular.woff') format('woff'),
+        url('Outfit-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
